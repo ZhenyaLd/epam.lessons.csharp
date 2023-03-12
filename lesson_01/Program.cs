@@ -6,7 +6,7 @@ bool isFalse = false;
 //integer values from -2,147,483,648 to 2,147,483,647
 int age = 20;
 
-//
+// long values from -9,
 long value = 10000000000000000;
 
 float pi = 3.14f;
@@ -20,4 +20,4 @@ string name = "Alex";
 
 
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, Zenya!");
